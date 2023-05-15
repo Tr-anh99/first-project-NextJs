@@ -50,7 +50,7 @@ export default function PostId(props: PostIdProps) {
               </Typography>
               <Link href="/posts">
                 <Button color="secondary" variant="outlined">
-                  Back end
+                  Back end v3
                 </Button>
               </Link>
             </CardContent>
